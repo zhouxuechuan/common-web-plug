@@ -1,0 +1,14 @@
+/* 改变主题色变量 */
+$--color-primary: #8cbdff;
+$--color-success: #0fc27e;
+$--color-warning: #e67736;
+$--color-danger: #f55af1;
+$--color-info: #abaeb4;
+$--input-font-size: 12px;
+$--input-height: 40px;
+$--input-mini-height: 25px;
+$--select-option-height: 40px;
+$--select-dropdown-max-height: 200px;
+/* 改变 icon 字体路径变量，必需 */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+@import "~element-ui/packages/theme-chalk/src/index";
